@@ -21,6 +21,6 @@ public class Workshop extends Evento {
         System.out.println("- Data: " + getData());
         System.out.println("- Horário: " + getHorario());
         System.out.println("- Status: " + getStatus());
-        System.out.println("---------------------------------");
+        System.out.println("------------------------------------------------------------");
     }
 }
