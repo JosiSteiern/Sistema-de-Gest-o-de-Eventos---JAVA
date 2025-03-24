@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 // ENUM para controlar se o evento ainda possui vagas
 public enum Vagas {

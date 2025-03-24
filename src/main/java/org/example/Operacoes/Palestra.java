@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 public class Palestra extends Evento {
     private String nomePalestrante;

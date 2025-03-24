@@ -1,6 +1,6 @@
 package org.example;
 
-import Operacoes.*;
+import org.example.Operacoes.*;
 
 import java.util.Scanner;
 

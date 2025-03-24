@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 import java.util.*;
 import java.time.LocalDate;

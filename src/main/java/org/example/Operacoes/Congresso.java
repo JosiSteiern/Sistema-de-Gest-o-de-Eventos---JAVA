@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 // A classe Congresso estende a classe Evento, ou seja, herda suas propriedades e métodos.
 public class Congresso extends Evento {

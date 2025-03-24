@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 // Classe abstrata que representa um evento genérico
 public abstract class Evento {

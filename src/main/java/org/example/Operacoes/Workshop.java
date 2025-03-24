@@ -1,4 +1,4 @@
-package Operacoes;
+package org.example.Operacoes;
 
 public class Workshop extends Evento {
     private String instrutor;
